@@ -1,0 +1,12 @@
+{
+    "ES": {
+        "titulo": "Este es el título en español",
+        "subtitulo": "Este es el subtítulo en español",
+        "parrafo": "Este es el párrafo en español"
+    },
+    "EN": {
+        "titulo": "This is the title in english",
+        "subtitulo": "This is the subtitle in english",
+        "parrafo": "This is the pharagraph in english"
+    }
+}
