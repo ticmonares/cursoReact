@@ -14,6 +14,16 @@ function App() {
   const onClick = () => {
     setMensaje(msj === "ES" ? "EN" : "ES")
   }
+  
+  const evalLengague = () => {
+    if (lngVal === "ES"){
+      const btnInnerText = "Translate";
+
+    }else{
+      const btnInnerText = "Traducir";
+
+    }
+  }
 
 
   return (
